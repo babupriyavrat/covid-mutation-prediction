@@ -5,7 +5,9 @@ This repository is focussed on developing a method to predict next dominant muta
 There are two files.The data is extracted from NCBI site. It is present in FASTA format.
 
 - Nucleotides - It represents virus nucleic acid code sequenced.
+  https://drive.google.com/file/d/1nKxcAPNTQbcDK-6sULTvLmjiW4Y1B9RD/view?usp=sharing
 - Proteins - It represents virus amino acid code sequenced.
+  https://drive.google.com/file/d/1WZzh7EZRGJRmPYFcMcTpBA39YcaXKg4A/view?usp=sharing
 
 To know the details about code, please visit the following link
 https://en.wikipedia.org/wiki/FASTA_format#Sequence%20representation
@@ -23,8 +25,6 @@ For example, for given country, if three PANGO lineage, A, B and C are discovere
 Your result should map to frequency of each PANGO lineage as plotted by nextStrain.
 
 https://nextstrain.org/ncov/asia?c=pango_lineage&d=map,frequencies&l=unrooted&p=full&transmissions=show
-
-
 
 # Dividing the data
 
