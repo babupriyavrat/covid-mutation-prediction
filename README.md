@@ -28,12 +28,14 @@ https://nextstrain.org/ncov/asia?c=pango_lineage&d=map,frequencies&l=unrooted&p=
 
 # Dividing the data
 
-THe current dominant PANGO Lineage are :B.1.117, B.1.617.1 and B.1.351 in last week of May. As data is available since December, it is suggested to split the  data from January 2020 to January 2021 as training data and February 2020 to May 2021 as testing data.
+THe current dominant PANGO Lineage are :B.1.117, B.1.617.1 and B.1.351 in last week of May. The team or individual is free to divide the training and testing data. The idea is to generate the next mutant strain which will become dominant. Please note that while verifying the dominant strain, the user has to make sure that dominant strain generated and predicted is not part of training data.
 
 # Predicting the next major mutation
 
-The idea is simplistic in nature: The nucleic acid sequence and protein sequence is passed to neural network to predict next few variants. The challenge lies in identifying not in predicting the next mutant strain but identifying the next dominant one. It's better to focus on protein sequence which is used to bind the virus to human ACE receptors. One hint can be found that dominant strains have mutations at similar spots. Thus, if any mutation generated  matches with dominant strain at present, then we can consider it as success.
+The idea is simplistic in nature: The nucleic acid sequence and protein sequence is passed to neural network to predict next few variants. The challenge lies in identifying not in predicting the next mutant strain but identifying the next dominant one. It's better to focus on protein sequence which is used to bind the virus to human ACE receptors. One hint can be found that dominant strains have mutations at similar spots. Thus, if any mutation generated  matches with dominant strain at present.
 
-A person or team generating all the three major mutations, i.e.,B.1.117, B.1.617.1 and B.1.351  using training data will be considered winner.
-A person or team generating any two major mutations, i.e.,B.1.117, B.1.617.1 and B.1.351  using training data will be 1st runner up.
-A person or team generating any one major mutations,i.e, B.1.117, B.1.617.1 and B.1.351  using training data will be considered 2nd runner up.
+The competition will close on 31st October.
+- The winner is the person identifiying atleast three new dominant strains which were not dominant earlier.
+- 1st runner is the person identifying atleast two new dominant strains where were not dominant earlier.
+- 2nd runner is the person identifying atleast one new dominant strains where were not dominant earlier.
+
