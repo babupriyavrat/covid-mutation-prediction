@@ -12,13 +12,13 @@ There are two files.The data is extracted from NCBI site. It is present in FASTA
 To know the details about code, please visit the following link
 https://en.wikipedia.org/wiki/FASTA_format#Sequence%20representation
 
-# understanding various protein
+# Understanding various protein
 There are different kinds of proteins.
 Please refer to the following article to understand various kind of proteins.
 
 https://virologyj.biomedcentral.com/articles/10.1186/s12985-019-1182-0
 
-# plotting propensity of PANGO lineage
+# Plotting propensity of PANGO lineage
 As these virus is fastly mutating, different populations is susceptible to different kind of mutations. Each region have susceptibility to different kind of mutations. This might be due to genetic diversity of humans. As our data is partial and doesn't contain north american and australian data, please correlate the cases in Asia identified in each country with 1 month moving window of PANG0 Lineage discovered. 
 For example, for given country, if three PANGO lineage, A, B and C are discovered between  1-Mar-2021 and 31-Mar-2021 are in ratio 20:30:50 and  number of identified cases from 20-Feb-2021 to 20-Mar-2021 are 100k, then A corresponded to 20k cases, B corresponded to 30k cases and C corresponded to 50k cases. The 10-day lag is assumed as incubation period. However, this might not be true for some mutations.
 
