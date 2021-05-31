@@ -37,5 +37,5 @@ The idea is simplistic in nature: The nucleic acid sequence and protein sequence
 The competition will close on 31st October.
 - The winner is the person identifiying atleast three new dominant strains which were not dominant earlier.
 - 1st runner is the person identifying atleast two new dominant strains where were not dominant earlier.
-- 2nd runner is the person identifying atleast one new dominant strains where were not dominant earlier.
+- 2nd runner is the person identifying atleast one new dominant strain where were not dominant earlier.
 
